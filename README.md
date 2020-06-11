@@ -2,7 +2,7 @@
 
 A proposta desse repositório é transparecer para os alunos e instrutores todo conteúdo programático do curso de Sistemas de Informação do EAGS SIN 2020 distribuído em um cronograma compatível com a Comléia EAGS SIN 2/2020. 
 
-## Slides das aulas
+## Ementa
 * Unidade 1 - Introdução e Conceitos
   * Noções de algoritmos
   * Conceitos de variáveis e funções
@@ -41,7 +41,7 @@ Durante nosso curso, diversas ferramentas online serão utilizadas para nos apoi
 | Organização de projetos | http//www.trello.com |
 | Bloco de notas na nuvem | http://dontpad.com/ |
 
-[â¬†ï¸ back to the top](#Slides das aulas)
+[â¬†ï¸ back to the top](#ementa)
 
 ### Cronograma de aula
 Total de 9 aulas para todo o conteúdo
@@ -53,7 +53,7 @@ A organização das aulas se darão acompanhando os dias disponibilizados na com
 | Data | Aula          | Título | Repositório |  Language |
 |:----:|----------------|---------------------|:----------:| :--------:|
 | 10/09/2020 | [Aula 1](https://docs.google.com/presentation/d/1MoVl-hN_5S9Ap-TaRuLEStzo_LMy70a0-PIE4Q-f0m4/edit?usp=sharing) | [Introdução e Conceitos](https://speakerdeck.com/eliasnogueira/create-an-architecture-for-web-test-automation)| [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 
-[â¬†ï¸ back to the top](#Slides das aulas)
+[â¬†ï¸ back to the top](#ementa)
 
 
 
