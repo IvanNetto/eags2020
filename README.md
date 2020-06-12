@@ -1,4 +1,4 @@
-# EAGS SIN 2020. Cronograma, conteúdo programático e atividades
+# Cronograma, conteúdo programático e atividades - EAGS SIN 2020
 
 A proposta desse repositório é transparecer para os alunos e instrutores todo conteúdo programático do curso de Sistemas de Informação do EAGS SIN 2020 distribuído em um cronograma compatível com a Comléia EAGS SIN 2/2020. 
 
@@ -59,3 +59,15 @@ A organização das aulas se darão acompanhando os dias disponibilizados na com
 
 
 [<-- Voltar para a Ementa](#ementa)
+
+## Introdução e Conceitos
+
+Nesta unidade o aluno perceberá que todo o mundo da computação teve sua origem no mundo real. O algoritmo que ele já conhece tem um motivo de existir e se iniciou no mundo real, fora do computador. 
+
+O comportamento do mundo real é representado no mundo da computação através de algoritmos. Principalmente hoje em dia, com a ascenção das redes sociais, são os algoritmos que dão vida e inteligencia à internet criando uma verdadeira sociedade de algoritmos que se comporta tal como um humano se comporta. Não, não é exagero pensar dessa forma. O assunto será bastante conversado em sala de aula.
+
+O aluno perceberá que um algoritmo pode ser organizado em funções computacionais com responsabilidades bem definidas para resolverem problemas específicos do mundo real.
+
+Esta unidade tem como propósito aproximar o aluno da representação do comportamento do dia a dia do comportamento computacional através dos algoritmos. 
+
+Com aulas, em sua maior parte expositivas e prática orientada, Introdução e Conceitos permitirá ao aluno seus primeiros passos dessa nova forma de observar algoritmos, longe da abordagem matemática ou científica e mais perto do comportamento humano.
