@@ -4,33 +4,34 @@ A proposta desse repositório é transparecer para os alunos e instrutores todo 
 
 ## Ementa
 * Unidade 1 - Introdução e Conceitos
-  * Noções de algoritmos
-  * Conceitos de variáveis e funções
-  * Operadores
+  * 1.1 - Noções de algoritmos
+  * 1.2 - Conceitos de variáveis e funções
+  * 1.3 - Operadores
   
 * Unidade 2 - Controle de fluxo e repetição   
-   * Estrutura de desvio de fluxo
-   * Estrutura de repetição (Simples e condicional)
+   * 2.1 - Estrutura de desvio de fluxo
+   * 2.2 - Estrutura de repetição
    
 * Unidade 3 - Estrturas de dados
-   * Estruturas lineares
-   * Estruturas não lineares
+   * 3.1 - Estruturas lineares
+   * 3.2 - Estruturas não lineares
  
 * Unidade 4 - Boas práticas de desenvolvimento
-   * Análise de algoritmos
-   * Princípio da responsabilidade única
-   * Refatoração
-   * Clean Code
-   * Versionamento de código
+   * 4.1 - Análise de algoritmos
+   * 4.2 - Princípio da responsabilidade única
+   * 4.3 - Refatoração
+   * 4.4 - Clean Code
+   * 4.5 - Teste em algoritmos
+   * 4.5 - Versionamento de código
 
 * Unidade 5 - Teste em algoritmos
-   * Cenário de testes
-   * Desenvolvimento de testes
+   * 5.1 - Cenário de testes
+   * 5.2 - Desenvolvimento de testes
    
 * Unidade 6 - Versionamento 
-  * Cópia de trabalho
-  * Publicação de versões e tags
-  * Correção de conflítos     
+  * 6.1 - Cópia de trabalho
+  * 6.2 - Publicação de versões e tags
+  * 6.3 - Correção de conflítos     
 
 ## Ferramentas
 Durante nosso curso, diversas ferramentas online serão utilizadas para nos apoiar. 
@@ -44,17 +45,42 @@ Durante nosso curso, diversas ferramentas online serão utilizadas para nos apoi
 [<-- Voltar para a Ementa](#ementa)
 
 ### Cronograma de aula
-Total de 9 aulas para todo o conteúdo
-Total de 40 tempos de aula de 45 minutos
-*12 tempos* de *aula expositiva*  
-*28 tempos* entre *prática orientada* e *prática livre*
+Total de 17 aulas para todo o conteúdo.
+Aulas distribuídas em 40 tempos de aula de 45 minutos.
+São eles:
+*18 tempos* de *aula expositiva*  
+*22 tempos* entre *prática orientada* e *prática livre*
 
 
-A organização das aulas se darão acompanhando os dias disponibilizados na comléia. Veja a seguir:
+A organização das aulas se dará acompanhando os dias disponibilizados na colméia. Veja a seguir:
+
+![Planejamento](https://drive.google.com/file/d/1M1GERB6Tns1KFFnlciNMCIO03tLgiJoY/view?usp=sharing)
+
 
 | Data | Aula          | Título | Repositório |
 |:----:|---------------|--------| ----------- |
-| 10/09/2020 | [Aula 1](https://docs.google.com/presentation/d/1MoVl-hN_5S9Ap-TaRuLEStzo_LMy70a0-PIE4Q-f0m4/edit?usp=sharing) | [Introdução e Conceitos](https://speakerdeck.com/eliasnogueira/create-an-architecture-for-web-test-automation)| [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 
+| 10/09/2020 | [Aula 1.1]() | [Noções de algoritmos]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 10 e 11/09/2020 | [Aula 1.2]() | [Conceito de variáveis e funções]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 11/09/2020 | [Aula 1.3]() | [Operadores]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 11/09/2020 | [Aula 2.1]() | [Estruturas de desvio de fluxo]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 15 e 16/09/2020 | [Aula 2.2]() | [Estrutura de repetição]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 16/09/2020 | [Aula 3.1]() | [Estruturas lineares]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 16/09/2020 | [Aula 3.2]() | [Estruturas não lineares]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 16/09/2020 | [Aula 4.1]() | [Análise de algoritmos]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 17/09/2020 | [Aula 4.2]() | [Princípio da responsabilidade única]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 17/09/2020 | [Aula 4.3]() | [Refatoração]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 17 e 18/09/2020 | [Aula 4.4]() | [Clean Code]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 18/09/2020 | [Aula 4.5]() | [Teste em algoritmos]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 22/09/2020 | [Aula 4.6]() | [Versionamento de código]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 22/09/2020 | [Aula 5.1]() | [Cenário de testes]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 22,23 e 24/09/2020 | [Aula 5.2]() | [Desenvolvimento de testes]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 24/09/2020 | [Aula 6.1]() | [Cópia de trabalho]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 24/09/2020 | [PROVA TEÓRICA]() | [Estruturas de desvio de fluxo]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 28/09/2020 | [PROVA PRÁTICA 1]() | [Estruturas de desvio de fluxo]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 29/09/2020 | [Aula 6.2]() | [Publicação de versões e tags]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 29/09/2020 | [Aula 6.3]() | [Correção de conflítos ]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| 05/10/2020 | [PROVA PRÁTICA 2]() | [Estruturas de desvio de fluxo]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+
 
 
 
