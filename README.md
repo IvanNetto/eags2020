@@ -1,4 +1,4 @@
-# Cronograma, conteúdo programático e atividades - EAGS SIN 2020
+# EAGS SIN 2020 - Disciplinas de Programação de Computadores
 
 A proposta desse repositório é transparecer para os alunos e instrutores todo conteúdo programático do curso de Sistemas de Informação do EAGS SIN 2020 distribuído em um cronograma compatível com a Comléia EAGS SIN 2/2020. 
 
