@@ -41,6 +41,7 @@ Durante nosso curso, diversas ferramentas online serão utilizadas para nos apoi
 | Para executarmos os códigos de exercícios | http://playcode.io/ |
 | Organização de projetos | http://www.trello.com |
 | Bloco de notas na nuvem | http://dontpad.com/ |
+| Perguntas e respostas   | https://kahoot.it/ |
 
 [<-- Voltar para a Ementa](#ementa)
 
@@ -54,8 +55,7 @@ São eles:
 
 A organização das aulas se dará acompanhando os dias disponibilizados na colméia. Veja a seguir:
 
-![Planejamento](https://drive.google.com/file/d/1M1GERB6Tns1KFFnlciNMCIO03tLgiJoY/view?usp=sharing)
-
+>> [![Planejamento](https://docs.google.com/spreadsheets/d/1mChql54spDJAoRedUuhIw8e1IYPKQFgCMpXuy5mhcas/edit?usp=sharing)]()
 
 | Data | Aula          | Título | Repositório |
 |:----:|---------------|--------| ----------- |
