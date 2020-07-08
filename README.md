@@ -46,16 +46,18 @@ Durante nosso curso, diversas ferramentas online serão utilizadas para nos apoi
 [<-- Voltar para a Ementa](#ementa)
 
 ### Cronograma de aula
-Total de 17 aulas para todo o conteúdo.
-Aulas distribuídas em 40 tempos de aula de 45 minutos.
+- Total de 17 aulas para todo o conteúdo.
+- Aulas distribuídas em 40 tempos de aula de 45 minutos.
+
 São eles:
+
 *18 tempos* de *aula expositiva*  
 *22 tempos* entre *prática orientada* e *prática livre*
 
 
 A organização das aulas se dará acompanhando os dias disponibilizados na colméia. Veja a seguir:
 
->> [![Planejamento](https://docs.google.com/spreadsheets/d/1mChql54spDJAoRedUuhIw8e1IYPKQFgCMpXuy5mhcas/edit?usp=sharing)]()
+![Planejamento de aula](planejamentoDeAula.png)
 
 | Data | Aula          | Título | Repositório |
 |:----:|---------------|--------| ----------- |
