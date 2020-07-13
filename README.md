@@ -59,29 +59,29 @@ A organização das aulas se dará acompanhando os dias disponibilizados na colm
 
 ![Planejamento de aula](planejamentoDeAula.png)
 
-| Data | Aula          | Título | Repositório |
-|:----:|---------------|--------| ----------- |
-| 01/09/2020 | [Aula 1.1]() | [Noções de algoritmos]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 01 e 02/09/2020 | [Aula 1.2]() | [Conceito de variáveis e funções]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 02/09/2020 | [Aula 1.3]() | [Operadores]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 03/09/2020 | [Aula 2.1]() | [Estruturas de desvio de fluxo]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 03 e 04/09/2020 | [Aula 2.2]() | [Estrutura de repetição]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 04/09/2020 | [Aula 3.1]() | [Estruturas lineares]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 04/09/2020 | [Aula 3.2]() | [Estruturas não lineares]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 08/09/2020 | [Aula 4.1]() | [Análise de algoritmos]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 08/09/2020 | [Aula 4.2]() | [Princípio da responsabilidade única]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 09/09/2020 | [Aula 4.3]() | [Refatoração]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 09/09/2020 | [Aula 4.4]() | [Clean Code]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 09/09/2020 | [Aula 4.5]() | [Teste em algoritmos]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 09/09/2020 | [Aula 4.6]() | [Versionamento de código]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 09 e 10/09/2020 | [Aula 5.1]() | [Cenário de testes]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 10 e 11/09/2020 | [Aula 5.2]() | [Desenvolvimento de testes]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 11/09/2020 | [Aula 6.1]() | [Cópia de trabalho]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 11/09/2020 | [PROVA PRÁTICA 1]() | [Unidades 1,2,3 e 6]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 14/09/2020 | [PROVA TEÓRICA]() | [Unidades 1,2,3 e 4]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 14/09/2020 | [Aula 6.2]() | [Publicação de versões e tags]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 14/09/2020 | [Aula 6.3]() | [Correção de conflítos ]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
-| 16/09/2020 | [PROVA PRÁTICA 2]() | [Unidades 4,5 e 6]()| [![logo](http://i.imgur.com/0o48UoR.png)]() | 
+| Data | Aula          | Título |
+|:----:|---------------|--------|
+| 01/09/2020 | [Aula 1.1]() | [Noções de algoritmos]()|
+| 01 e 02/09/2020 | [Aula 1.2]() | [Conceito de variáveis e funções]()|
+| 02/09/2020 | [Aula 1.3]() | [Operadores]()|
+| 03/09/2020 | [Aula 2.1]() | [Estruturas de desvio de fluxo]()|
+| 03 e 04/09/2020 | [Aula 2.2]() | [Estrutura de repetição]()|
+| 04/09/2020 | [Aula 3.1]() | [Estruturas lineares]()|
+| 04/09/2020 | [Aula 3.2]() | [Estruturas não lineares]()|
+| 08/09/2020 | [Aula 4.1]() | [Análise de algoritmos]()|
+| 08/09/2020 | [Aula 4.2]() | [Princípio da responsabilidade única]()|
+| 09/09/2020 | [Aula 4.3]() | [Refatoração]()|
+| 09/09/2020 | [Aula 4.4]() | [Clean Code]()|
+| 09/09/2020 | [Aula 4.5]() | [Teste em algoritmos]()|
+| 09/09/2020 | [Aula 4.6]() | [Versionamento de código]()|
+| 09 e 10/09/2020 | [Aula 5.1]() | [Cenário de testes]()|
+| 10 e 11/09/2020 | [Aula 5.2]() | [Desenvolvimento de testes]()|
+| 11/09/2020 | [Aula 6.1]() | [Cópia de trabalho]()|
+| 11/09/2020 | [PROVA PRÁTICA 1]() | [Unidades 1,2,3 e 6]()|
+| 14/09/2020 | [PROVA TEÓRICA]() | [Unidades 1,2,3 e 4]()|
+| 14/09/2020 | [Aula 6.2]() | [Publicação de versões e tags]()|
+| 14/09/2020 | [Aula 6.3]() | [Correção de conflítos ]()|
+| 16/09/2020 | [PROVA PRÁTICA 2]() | [Unidades 4,5 e 6]()|
 
 
 [⬆️ Voltar para o índice](#ementa)
