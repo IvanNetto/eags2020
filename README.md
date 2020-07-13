@@ -1,6 +1,6 @@
-# EAGS SIN 2020 - Disciplinas de Programação de Computadores
+# EAGS SIN 2020 - Algoritmos e Introdução à Programação
 
-A proposta desse repositório é transparecer para os alunos e instrutores todo conteúdo programático do curso de Sistemas de Informação do EAGS SIN 2020 distribuído em um cronograma compatível com a Comléia EAGS SIN 2/2020. 
+A primeira disciplina de 3 que compõem o curso de programação para o EAGS SIN 2020. Aqui você (aluno ou instrutor) conhecerá tudo o que será aprendido ao percorrer das disciplinas.  
 
 ## Ementa
 * [Unidade 1 - Introdução e Conceitos](#unidade-1)
