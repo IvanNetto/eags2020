@@ -42,6 +42,7 @@ Durante nosso curso, diversas ferramentas online serão utilizadas para nos apoi
 | Organização de projetos | http://www.trello.com |
 | Bloco de notas na nuvem | http://dontpad.com/ |
 | Perguntas e respostas   | https://kahoot.it/ |
+| Fórum de dúvidas Google Grupos | https://groups.google.com/g/eags-sin-2020-alip |
 
 [⬆️ Voltar para o índice](#ementa)
 
