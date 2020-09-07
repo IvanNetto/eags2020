@@ -1,7 +1,7 @@
 /* eslint-env jest */
 const inverso = require('./inverso')
 
-describe('QUESTÃO 5 - DADO UM VETOR RETORN O EM SUA ORDEM INVERSA', () => {
+describe('QUESTÃO 5 - DADO UM VETOR RETORNE-O EM SUA ORDEM INVERSA', () => {
     test('DADO O VETOR [1, 2, 3, 4, 5, 6] DEVE RETORNAR O VETOR [6, 5, 4, 3, 2, 1]', () => {
       const given = {
         vetor = [1, 2, 3, 4, 5, 6]
