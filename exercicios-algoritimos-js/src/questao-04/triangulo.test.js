@@ -17,7 +17,7 @@ describe('QUESTÃO 4 - DADO 3 VALORES INTEIROS QUE SÃO OS LADOS DE UM TRIANGULO
     test('DADO OS VALOR 4, 7, 7 DEVE RETORNAR ISÓSCELES', () => {
         const given = {
           a: 4,
-          b: 5,
+          b: 7,
           c: 7
         }
     
