@@ -13,4 +13,15 @@ describe('QUESTÃO 1 - RETORNAR O TROCO DADO O VALOR PAGO E O VALOR DO PRODUTO',
       const actual = troco(given.valorPago, given.valorProduto)
       expect(actual).toEqual(expected)
     })
+    test('DADO OS VALORES 15 E 5 DEVE RETORNAR 10', () => {
+      const given = {
+        valorPago: 15,
+        valorProduto: 5
+      }
+  
+      const expected = 10
+  
+      const actual = troco(given.valorPago, given.valorProduto)
+      expect(actual).toEqual(expected)
+    })
   })
