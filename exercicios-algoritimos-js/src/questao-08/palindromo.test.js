@@ -1,50 +1,39 @@
 /* eslint-env jest */
 const palindromo = require('./palindromo')
 
-describe('QUESTÃO 7 - RECEBER UM NUMERO "N" E EXECUTAR AS TAREFAS PEDIDAS', () => {
-    test('DADO O VALOR 3 DEVE RETORNAR O ARRAY [1, 3]', () => {
+describe('QUESTÃO 8 - RETORNAR SE UMA PALAVRA É UM PALINDROMO OU NÃO', () => {
+    test('DADO A PALAVRA BANANA DEVE RETORNAR FALSE', () => {
         const given = {
-            n: 3
+            palavra: 'banana'
         }
 
-        const expected = [1, 3]
+        const expected = false
 
-        const actual = valores1(given.n)
+        const actual = palindromo(given.palavra)
         expect(actual).toEqual(expected)
     })
 
-    test('DADO O VALOR 4 DEVE RETORNAR A SOMA DE 2 E 4 QUE SERÁ O INTEIRO 6', () => {
+    test('DADO A PALAVRA MUSSUM DEVE RETORNAR TRUE', () => {
         const given = {
-            n: 4
+            palavra: 'mussum'
         }
 
-        const expected = 6
+        const expected = false
 
-        const actual = valores2(given.n)
+        const actual = palindromo(given.palavra)
         expect(actual).toEqual(expected)
     })
 
-    test('DADO O VALOR 4 E 8 DEVE RETORNAR O ARRAY [3, 5, 7]', () => {
+    test('DADO A PALAVRA ASA DEVE RETORNAR TRUE', () => {
         const given = {
-            a: 4,
-            b: 8
+            palavra: 'asa'
         }
 
-        const expected = [3, 5, 7]
+        const expected = false
 
-        const actual = valores3(given.a, given.b)
+        const actual = palindromo(given.palavra)
         expect(actual).toEqual(expected)
     })
 
-    test('DADO O VALOR 4 E 8 DEVE RETORNAR O ARRAY [3, 5, 7]', () => {
-        const given = {
-            a: 2,
-            b: 8
-        }
-
-        const expected = [15]
-
-        const actual = valores4(given.a, given.b)
-        expect(actual).toEqual(expected)
-    })
+    
 })
