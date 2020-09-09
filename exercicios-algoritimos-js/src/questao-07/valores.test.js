@@ -27,13 +27,13 @@ describe('QUESTÃO 7 - RECEBER UM NUMERO "N" E EXECUTAR AS TAREFAS PEDIDAS', () 
         expect(actual).toEqual(expected)
     })
 
-    test('DADO O VALOR 4 E 8 DEVE RETORNAR O ARRAY [3, 5, 7]', () => {
+    test('DADO O VALOR 4 E 8 DEVE RETORNAR O ARRAY [5, 7]', () => {
         const given = {
             a: 4,
             b: 8
         }
 
-        const expected = [3, 5, 7]
+        const expected = [5, 7]
 
         const actual = valores3(given.a, given.b)
         expect(actual).toEqual(expected)
