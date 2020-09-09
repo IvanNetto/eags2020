@@ -1,3 +1,3 @@
-module.exports = function() {
-    //REPOSTA AQUI
+module.exports = function(n) {
+    return n % 2 !== 0
 }

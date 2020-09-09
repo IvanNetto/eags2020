@@ -12,4 +12,15 @@ describe('QUESTÃO 3 - RETORNAR SE UM NUMERO É IMPAR OU NÃO', () => {
         const actual = impar(given.n)
         expect(actual).toEqual(expected)
     })
+
+    test('DADO O VALOR 8 DEVE RETORNAR TRUE', () => {
+        const given = {
+            n: 8
+        }
+
+        const expected = false
+
+        const actual = impar(given.n)
+        expect(actual).toEqual(expected)
+    })
 })
